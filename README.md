@@ -1,6 +1,6 @@
 # 🛠️ Spring Boot - Gestion de Produits
 
-Ce projet est une application simple de gestion de produits réalisée avec **Spring Boot**, **Spring Data JPA**, **Lombok** et **H2 Database**.
+Ce projet est une application simple de gestion de produits réalisée avec **Spring Boot**, **Spring Data JPA**, **Lombok** et **H2 Database et aussi MYSQL**.
 
 ---
 
